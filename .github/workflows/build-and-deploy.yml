@@ -1,4 +1,4 @@
-name: Build and Deploy
+name: zola-build
 on: push
 jobs:
   build:
