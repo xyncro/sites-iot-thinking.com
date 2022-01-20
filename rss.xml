@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>IoT Thinking</title>
+        <link>https://iot-thinking.com</link>
+        <description>Insight, Opinion and Dissection of the IoT Space</description>
+        <generator>Zola</generator>
+        <language>en</language>
+        <atom:link href="https://iot-thinking.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Nov 2019 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>My second post</title>
+            <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+            <link>https://iot-thinking.com/blog/second/</link>
+            <guid>https://iot-thinking.com/blog/second/</guid>
+            <description>&lt;p&gt;This is my second blog post.&lt;&#x2F;p&gt;
+</description>
+        </item>
+        <item>
+            <title>My first post</title>
+            <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
+            <link>https://iot-thinking.com/blog/first/</link>
+            <guid>https://iot-thinking.com/blog/first/</guid>
+            <description>&lt;p&gt;This is my first blog post.&lt;&#x2F;p&gt;
+</description>
+        </item>
+    </channel>
+</rss>
